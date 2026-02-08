@@ -4,3 +4,5 @@ La pregunta clave del proyecto fue:
 ¿En qué mes se registran mayores ventas y cómo se comporta la tendencia a lo largo del año?
 A través del análisis visual se identificó una tendencia creciente, destacándose el último mes como el de mayor rendimiento.
 Este proyecto demuestra cómo Excel, apoyado en herramientas inteligentes de análisis, facilita la interpretación de datos y la toma de decisiones.
+video:
+https://universidadeaneduco-my.sharepoint.com/:v:/g/personal/npineda73250_universidadean_edu_co/IQBPYSoQYo3JTr_CE6jwVOM-AZoEcXJrY7W8K9v657aOuHA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLjaOZ
